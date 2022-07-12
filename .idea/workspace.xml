@@ -26,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,6 +54,7 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2BTIs7sPIcRTAXpP5kKRNk5a4wv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
@@ -181,7 +185,7 @@
       <workItem from="1657067507046" duration="13267000" />
       <workItem from="1657547208492" duration="1340000" />
       <workItem from="1657552963927" duration="854000" />
-      <workItem from="1657599064726" duration="6265000" />
+      <workItem from="1657599064726" duration="6567000" />
     </task>
     <servers />
   </component>
