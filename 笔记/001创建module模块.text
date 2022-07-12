@@ -1,0 +1,26 @@
+微服务：
+    1.建模块
+    2.改pom
+    3.编写yml
+        1.端口
+        2.服务名称
+        3.数据源，操作类型，驱动，用户名，密码
+        4.mybatis配置
+    4.主启动类
+    5.业务类
+        1.建sql表
+        2.entities
+            1.主实体Payment
+            2.Json封装体CommonResult（与前端交互）
+        3.dao
+            1.接口dao
+            2.mybatis的映射文件XxxxMapper.xml
+        4.service
+            1.接口
+            2.实现dao
+        5.controller
+            1.实现service
+            2.前端
+
+    6.测试
+    7.小总结
